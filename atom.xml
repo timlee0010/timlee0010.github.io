@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-13T09:15:56.000Z</updated>
+  <updated>2018-10-13T09:30:20.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,65 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>2</title>
-    <link href="http://yoursite.com/2018/10/13/2/"/>
-    <id>http://yoursite.com/2018/10/13/2/</id>
-    <published>2018-10-13T09:17:30.608Z</published>
-    <updated>2018-10-13T09:15:56.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;@(知识输出（原创）)[个人公众号：弗瑞曼, 行动力]&lt;br&gt;&lt;img src=&quot;http://img.027cgb.com/608770/1-1.jpg&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;行动起来&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="biaoqian2" scheme="http://yoursite.com/tags/biaoqian2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>3</title>
-    <link href="http://yoursite.com/2018/10/13/3/"/>
-    <id>http://yoursite.com/2018/10/13/3/</id>
-    <published>2018-10-13T09:17:18.405Z</published>
-    <updated>2018-10-13T09:16:44.000Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;@(知识输出（原创）)[个人公众号：弗瑞曼, 行动力]&lt;br&gt;&lt;img src=&quot;http://img.027cgb.com/608770/1-1.jpg&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;行动起来&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="成长" scheme="http://yoursite.com/categories/%E6%88%90%E9%95%BF/"/>
-    
-    
-      <category term="biaoqian2" scheme="http://yoursite.com/tags/biaoqian2/"/>
-    
-      <category term="baioqian3" scheme="http://yoursite.com/tags/baioqian3/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>1</title>
+    <title>title</title>
     <link href="http://yoursite.com/2018/10/13/%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5/"/>
     <id>http://yoursite.com/2018/10/13/行动起来/</id>
-    <published>2018-10-13T09:15:02.804Z</published>
-    <updated>2018-10-13T09:14:52.000Z</updated>
+    <published>2018-10-13T09:30:29.033Z</published>
+    <updated>2018-10-13T09:30:20.000Z</updated>
     
     <summary type="html">
     
@@ -90,10 +36,10 @@
     
     </summary>
     
-      <category term="成长" scheme="http://yoursite.com/categories/%E6%88%90%E9%95%BF/"/>
+      <category term="categories" scheme="http://yoursite.com/categories/categories/"/>
     
     
-      <category term="biaoqian" scheme="http://yoursite.com/tags/biaoqian/"/>
+      <category term="tags" scheme="http://yoursite.com/tags/tags/"/>
     
   </entry>
   
