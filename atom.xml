@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-13T09:30:20.000Z</updated>
+  <updated>2018-10-13T10:45:12.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>title</title>
+    <title>开始我的写作之旅——拒绝拖延</title>
     <link href="http://yoursite.com/2018/10/13/%E8%A1%8C%E5%8A%A8%E8%B5%B7%E6%9D%A5/"/>
     <id>http://yoursite.com/2018/10/13/行动起来/</id>
-    <published>2018-10-13T09:30:29.033Z</published>
-    <updated>2018-10-13T09:30:20.000Z</updated>
+    <published>2018-10-13T10:45:23.379Z</published>
+    <updated>2018-10-13T10:45:12.000Z</updated>
     
     <summary type="html">
     
@@ -29,17 +29,19 @@
       
         
         
-          &lt;p&gt;@(知识输出（原创）)[个人公众号：弗瑞曼, 行动力]&lt;br&gt;&lt;img src=&quot;http://img.027cgb.com/608770/1-1.jpg&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;行动起来&quot;&gt;&lt;a
+          &lt;p&gt;&lt;img src=&quot;http://img.027cgb.com/608770/1-1.jpg&quot; alt=&quot;enter image description here&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;行动起来&quot;&gt;&lt;a href=&quot;#行动起来&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="categories" scheme="http://yoursite.com/categories/categories/"/>
+      <category term="成长" scheme="http://yoursite.com/categories/%E6%88%90%E9%95%BF/"/>
     
     
-      <category term="tags" scheme="http://yoursite.com/tags/tags/"/>
+      <category term="行动力" scheme="http://yoursite.com/tags/%E8%A1%8C%E5%8A%A8%E5%8A%9B/"/>
+    
+      <category term="拖延症" scheme="http://yoursite.com/tags/%E6%8B%96%E5%BB%B6%E7%97%87/"/>
     
   </entry>
   
